@@ -28,8 +28,9 @@
 
 ### 🌐 Frontend
 - HTML  
-- CSS  
-- JavaScript  
+- CSS
+- BootStrap
+- JavaScript 
 - React.js  
 
 ### 🗄️ Databases
